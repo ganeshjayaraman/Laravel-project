@@ -1,0 +1,30 @@
+<!--								@foreach($course as $d)
+								<br /><br />
+								<table>
+								
+								<thead>  </thead>
+								<tr>
+								<td> Course Id : </td>
+								<td> {{ $d->courseid }} </td></tr>
+								
+								<tr>
+								<td> Course Name : </td>
+								<td> {{ $d->coursename }} </td></tr>
+								
+								<tr>
+								<td> Student Id : </td>
+								<td> {{ $d->courseid }}{{ $d->userid }} </td></tr>
+								
+								<tr>
+								<td> fees : </td>
+								<td> {{ $d->fees }} </td></tr>
+								
+								</table>
+								@endforeach
+							
+	
+</div>
+</div>
+</div>
+
+-->
